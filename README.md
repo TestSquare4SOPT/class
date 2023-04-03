@@ -1,2 +1,2 @@
-# introducing
-소개합니다.
+# class
+
